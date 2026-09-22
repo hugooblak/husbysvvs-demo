@@ -15,7 +15,5 @@ return array(
 		array( 'Vi fick hjälp med montering av ny utkastare och utbyte av några vattenledningar idag. Smidigt, snabbt, trevligt och snyggt utfört. Rekommenderas varmt. 👍', 'Daniel Johanson', 'för 6 år sedan' ),
 		array( 'Supernöjd, ringer söndag morgon med läckage på inkommande ledning. Klart 4 timmar senare, bra dialog och inget svammel. Rekommenderas varmt.', 'Johan Carlsson', 'för 9 månader sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg', 'foto-4.jpg' ),
 	'ar_riktig'      => true,
 );
