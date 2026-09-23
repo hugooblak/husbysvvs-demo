@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Husbys VVS AB',
+	'bransch'        => 'VVS-montör',
 	'telefon'        => '072-836 14 98',
 	'telefon_tel'    => '+46728361498',
 	'betyg'          => '4,4',
